@@ -4,7 +4,7 @@
 # moviefy 
 
 A Web site to instantly search and stream your favourite movie 
-https://cinemafy.herokuapp.com/  
+https://aqueous-lowlands-69941.herokuapp.com/  
 
 ## Running website locally 
 	
